@@ -30,3 +30,6 @@ This project is a good exercise in understanding the Model-View-Controller (MVC)
 - **Controller**: The `ViewController` class acts as the controller, mediating between the model and view, updating the UI based on user interactions and story progression.
 
 By practicing MVC, I gained a better understanding of how to organize code in iOS applications, making it more modular, maintainable, and scalable.
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-02-13 at 10 57 02](https://github.com/Aziza0508/destinyApp/assets/112758271/f49aaef3-22a2-4edf-bf58-2cb9036be023)
+
